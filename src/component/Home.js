@@ -5,7 +5,7 @@ const Home = () => {
 
         <>
         <div>               
-            <img src="https://images.gettyimageskorea.com/t500/70/002/ls1202570-002.jpg"/>    
+            <img src="https://parenting.firstcry.ae/memories/getMyMemoryImages/2018/02/528833161-H.jpg"/>    
         </div>
         </>
     );
